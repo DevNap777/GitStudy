@@ -8,6 +8,7 @@
             string input = Console.ReadLine();
 
             Console.WriteLine($"당신의 이름은 {input} 입니다.");
+            Console.WriteLine("다른거 함 추가해봅니당");
         }
     }
 }
